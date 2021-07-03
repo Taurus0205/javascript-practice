@@ -32,5 +32,5 @@ console.log(
     futurePlace +
     "\nIn the company: " +
     futurePlan +
-    "\nThanks for the form. Good luck!"
+    "\n\nThanks for the form. Good luck!"
 );
